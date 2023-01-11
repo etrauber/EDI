@@ -10,7 +10,7 @@ function setup() {//runs once
 
 function draw() {//runs in a loop
 
-var num = 4; //variable for the number of squares in the y direction
+var num = 20; //variable for the number of squares in the y direction
 
 var sideLen = windowWidth/num; //variable for the side length of each square
 
