@@ -11,7 +11,7 @@ function draw() {//runs in a loop
   //background('white');
   strokeWeight(1);
 
-var num = 20; //variable for the number of squares in the y direction
+var num = 30; //variable for the number of squares in the y direction
 translate(-150, -150);
 
 var sideLen = windowWidth/num; //variable for the side length of each square
