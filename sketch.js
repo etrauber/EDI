@@ -1,6 +1,6 @@
 let gif;
 function preload(){
-  gif = loadImage('assets/wand4.gif');
+  gif = loadImage('../assets/wand4.gif');
 }
 
 function setup() {//runs once
